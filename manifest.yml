@@ -1,0 +1,4 @@
+---
+applications:
+- name: predix-tensorflow-example
+  buildpack: https://github.com/cloudfoundry/buildpack-python.git
