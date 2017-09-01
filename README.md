@@ -50,11 +50,12 @@ running.
 
 # Description
 
-This is the basic example from Getting Started with TensorFlow.  When combined
-with the Predix SDK you can start pulling data from services like Predix Asset
-and Predix Time Series.
+This is the basic example from Getting Started with TensorFlow.
 
-For more information about the SDK see:
+https://www.tensorflow.org/get_started/get_started
+
+When combined with the Predix SDK you can start pulling data from services like
+Predix Asset and Predix Time Series.  For more information about the SDK see:
 
 - https://github.com/PredixDev/predixpy
 
